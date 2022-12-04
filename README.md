@@ -15,7 +15,7 @@ Hi, I’m Mishika. Welcome to my Github portal.
 #### 📈 Portfolio Projects
 
 I find it immensely gratifying to see the conversion of raw data into logical projections. During my spare time, I keep playing with real-world datasets to explore and build models using the data. The following are the key projects undertaken:
-- [BellaBeat Case Study_ Google Data Analytics Capstone using R and Tableau]
+- [BellaBeat Case Study_ Google Data Analytics Capstone using R and Tableau](https://github.com/mishika12/BellaBeat-Case-Study_Google-Data-Analytics-Capstone)
 - [Walmart Sales Data Analysis using Python (Regression)](https://github.com/mishika12/Walmart_Sales_Data_Analysis-Regression)
 - [Tennis Match Winner using Python (Classification)](https://github.com/mishika12/Tennis_Match_Winner-Classification)
 
