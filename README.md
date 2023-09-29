@@ -19,7 +19,7 @@ I find it immensely gratifying to see the conversion of raw data into logical pr
 - [Walmart Sales Data Analysis using Python (Regression)](https://github.com/mishika12/Walmart_Sales_Data_Analysis-Regression)
 - [Tennis Match Winner using Python (Classification)](https://github.com/mishika12/Tennis_Match_Winner-Classification)
 
-
+#### Happy to connect on LinkedIn - https://www.linkedin.com/in/mishika12/
 <!---
 mishika12/mishika12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
