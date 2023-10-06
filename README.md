@@ -2,15 +2,19 @@ Hi, I’m Mishika. Welcome to my Github portal.
 
 #### 👩‍🎓 About Me 
 
-- A sound academic background in a quantitative discipline like Economics has made logical thinking and problem-solving an intrinsic part of my personality. My keen interest in business strategy and innovation is well reflected in my 2+ years of experience in strategy consulting across industry domains
-- Currently, I am working in the Venture Ecosystem team at Bain & Company where I help clients across sectors with critical insights on the innovation disruption in the startup and venture capital world
-- I am an analytics enthusiast with a penchant for analyzing data and driving reasonable insights from it, in addition to my love for playing badminton and traveling solo to the mountains
+Looking for a problem solver with a penchant for driving data-driven business decisions? Well, look no further because that is where I come in! 
+
+With a robust academic background in the quantitative discipline of Economics and over 3 years of experience in strategy consulting across industry domains, my love for leveraging data to derive actionable business insights led me to "shift gears" and pursue my Master’s in Business Analytics at UCLA Anderson School of Management.
+
+My prior experience of working in the Venture Ecosystem team at Bain & Company enabled me to help Fortune 500 clients with critical insights on the innovation disruption in the startup and venture capital domain using predictive modeling and visualization. What's even more rewarding is the lasting relationships I've built with clients across various sectors including retail, technology, finance, and construction.
+
+I am interested to apply and engage in an internship role that lies at the intersection of business strategy, product development and data science/ analytics. Please feel free to reach out to me at: mishika.ms.2024@anderson.ucla.edu
 
 #### 📊 Data Science Expertise
 
-- <b>Languages</b>: Python (Numpy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn), SQL, R
-- <b>Software/ tools</b>: JupyterNotebook, R-Studio, Tableau, MS Excel, GIT
-- <b>Analytics</b>: Statistical Modeling, Machine Learning (Supervised learning algorithms), Time Series Analysis, EDA, Visualization
+- <b>Languages</b>: Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly), SQL, R (dplyr, ggplot2)
+- <b>Software/ tools</b>: JupyterLab, Tableau, R-Studio, MS Office Suite, Stata, GIT
+- <b>Analytics</b>: Statistical Modeling, Machine Learning (Supervised learning algorithms), Segmentation Analysis, Time Series Analysis, EDA, Visualization, A/B Testing 
 
 #### 📈 Portfolio Projects
 
