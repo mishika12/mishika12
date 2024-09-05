@@ -27,7 +27,7 @@ Interested in Strategy, Data Science and Product Management
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([Your_LinkedIn_URL](https://www.linkedin.com/in/mishika12/))
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)]([(https://github.com/mishika12)])
-[![Website Badge](https://img.shields.io/badge/-Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)]([(https://mishika12.github.io/]))
+[![Website Badge](https://img.shields.io/badge/-Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mishika12.github.io/)
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/mishika8010/vizzes)
 
 
