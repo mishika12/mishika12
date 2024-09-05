@@ -25,10 +25,10 @@ Interested in Strategy, Data Science and Product Management
 
 ## Connect
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](Your_LinkedIn_URL)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/vishanth10)
-[![Website Badge](https://img.shields.io/badge/-Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishanth10.github.io/vishanth/)
-[![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)](Your_Tableau_Profile_URL)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([Your_LinkedIn_URL](https://www.linkedin.com/in/mishika12/))
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)]([(https://github.com/mishika12)])
+[![Website Badge](https://img.shields.io/badge/-Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)]([(https://mishika12.github.io/]))
+[![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/mishika8010/vizzes)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishanth10&hide=css,scss,html&theme=tokyonight)
