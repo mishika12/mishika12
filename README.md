@@ -2,7 +2,7 @@
 
 #### Hi there, I am Mishika 👋
 - 🔭 I’m currently working at Copart Inc. as a Strategic Analytics and Data Science Intern
-- 👯 I’m looking to collaborate on ML project to expand my domain knowledge
+- 👯 I’m looking for full-time roles at the intersection of data science, analytics, and product 
 - ⚡ Fun fact: I have successfully hiked the Angel's Landing at Zion National Park in Utah.
 
 #### 👩‍🎓 About Me
